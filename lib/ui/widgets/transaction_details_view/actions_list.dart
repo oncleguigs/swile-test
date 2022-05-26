@@ -37,7 +37,7 @@ class ActionsList extends StatelessWidget {
         text: '''Partage d'addition''',
       ),
       ActionItem(
-        icon: Icons.heart_broken,
+        icon: Icons.favorite,
         iconColor: _defaultIconsColor,
         text: 'Aimer',
       ),
